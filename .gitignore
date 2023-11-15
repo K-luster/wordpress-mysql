@@ -1,0 +1,2 @@
+# Ignore Kubernetes Namespace YAML file
+*-namespace.yaml
